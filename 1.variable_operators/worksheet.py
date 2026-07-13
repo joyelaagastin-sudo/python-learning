@@ -13,11 +13,11 @@
 # print(f"sum of {a} and {b} is {a+b}")
 
 # #4
-maths, science, english, tamil, social = map(int, input("Enter 5 subject marks separated by spaces: ").split())
+# maths, science, english, tamil, social = map(int, input("Enter 5 subject marks separated by spaces: ").split())
 
-total = maths + science + english + tamil + social
+# total = maths + science + english + tamil + social
 
-print("Total Marks =", total)
+# print("Total Marks =", total)
 
 
 # #5
