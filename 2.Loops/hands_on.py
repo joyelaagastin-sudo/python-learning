@@ -70,5 +70,37 @@
 #         print("Not Found")
 #     case _:
 #             print("status code not recognized")
+
+
+# a=6
+# b=5
+# if a > b :
+#     print("a is greater than b")
+# else:
+#     print("b is greater than a")
     
       
+
+# a = 34
+# b = 8
+# c = 1
+# if a > b:
+#     print("a is greater than b")
+# elif b > c:
+#     print("b is greater than c")
+# else:
+#     print("c is the greatest")
+
+
+
+
+a = int(input("enter the a value : "))
+b = int(input("enter the b value : "))
+c = int(input("enter the c value : "))
+
+if a > b and a > c:
+    print("a is the greatest")
+elif b > a and b > c:
+    print("b is the greatest")
+else:
+    print("c is the greatest")
