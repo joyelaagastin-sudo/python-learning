@@ -22,3 +22,53 @@
 #     subject_mark = int(input("Enter the marks for subject : "))
 #     total += subject_mark
 # print("Total marks:", total)
+
+# row = 3
+# column = 4
+# for i in range(row):
+#     for j in range(column):
+#         print("*", end=" ")
+#     print()
+
+# rows = 4
+
+# for i in range( rows + 2):
+#     for j in range(i):
+#         print("*", end=" ")
+#     print()
+
+
+# rows = 4
+# columns = 1
+# for i in range(rows + 1):
+#     for j in range(, columns + i):
+#         print("*", end=" ")
+#     print()
+
+
+# while loop
+
+# energy = 10
+# while energy > 0:
+#     print("jumping")
+#     print(f"Energy: {energy}")
+#     energy -= 1
+#     print("loop ended")
+    
+    
+# from unittest import case
+
+# status_code = int(input("Enter the status code: "))
+# match status_code:
+#     case 400:
+#         print("Bad Request")
+#     case 401:
+#         print("Unauthorized")
+#     case 403:
+#         print("Forbidden")
+#     case 404:
+#         print("Not Found")
+#     case _:
+#             print("status code not recognized")
+    
+      
