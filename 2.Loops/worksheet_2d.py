@@ -48,3 +48,35 @@
 # letters =["a", "b", "c", "d"]
 # for i in range (4):
 #     print(letters[i] * (i + 1))
+
+# 8
+
+# petrol = 0
+
+# while petrol <= 0:
+#     petrol = float(input("Enter petrol in liters: "))
+
+# distance = petrol * 50
+
+# print("Distance =", distance, "km")
+
+
+# 9
+
+# for num in range(1,100000):
+#     sum = 0
+#     for i in str(num):
+#         sum = sum + int(i)**3
+
+#     if sum == num:
+#         print(num, "is an Armstrong number")
+
+# for i in range(1, 16):
+#     if i % 3 == 0 and i % 5 == 0:
+#         print("FizzBuzz")
+#     elif i % 3 == 0:
+#         print("Fizz")
+#     elif i % 5 == 0:
+#         print("Buzz")
+#     else:
+#         print(i)
